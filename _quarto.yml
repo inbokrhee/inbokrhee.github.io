@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Inbok Rhee"
+author-meta: "Inbok Rhee"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "Inbok Rhee"
+  image: files/headshot.jpeg
+  description: "Inbok Rhee"
  
   navbar:
     background: light
@@ -35,12 +35,12 @@ website:
             href: projects.qmd                                
       - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group
-        href: people.qmd
+      # - text: Outreach
+      #   menu:        
+      #   - text: Presentations
+      #     href: posts.qmd#category=presentation                   
+      # - text: Group
+      #   href: people.qmd
 
     right: 
       - text: CV
@@ -58,7 +58,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Inbok Rhee](http://inbokrhee.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
