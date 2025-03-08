@@ -1,10 +1,10 @@
 ---
 title: "Quarto Academic, PhD"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
-page-navigation: false
-toc: false
-#sidebar: false
+image: "images/headshot.jpeg"
+page-navigation: true
+toc: true
+sidebar: true
 page-layout: full
 
 about:
@@ -81,7 +81,7 @@ I'm a template that you can fork to build your own website with easy adaptation 
 
 ## Experience
 
-- Researcher, Univerisity
+- Researcher, Univerisityyyy
 
 ## Education
 

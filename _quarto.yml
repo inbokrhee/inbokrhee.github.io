@@ -3,16 +3,16 @@ navbar:
 
   left:
     - text: Home
-      # href: index.qmd
+      href: index.qmd
 
-    # - text: About
-    #   menu:
-    #     - text: News
-    #       href: posts.qmd#category=news
-    #     - text: Events
-    #       href: posts.qmd#category=event      
-    #     - text: Contact
-    #       href: contact.qmd             
+    - text: About
+      menu:
+        - text: News
+          href: posts.qmd#category=news
+        - text: Events
+          href: posts.qmd#category=event
+        - text: Contact
+          href: contact.qmd
 
     - text: Research
       menu:
