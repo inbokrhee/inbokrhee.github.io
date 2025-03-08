@@ -15,8 +15,8 @@ website:
     background: light
 
     left:
-#      - text: Home
-#        href: index.qmd
+     - text: Home
+       href: index.qmd
       - text: About
         menu:
           - text: News
@@ -35,12 +35,12 @@ website:
             href: projects.qmd                                
       - text: Teaching
         href: teaching.qmd
-      # - text: Outreach
-      #   menu:        
-      #   - text: Presentations
-      #     href: posts.qmd#category=presentation                   
-      # - text: Group
-      #   href: people.qmd
+      - text: Outreach
+        menu:
+        - text: Presentations
+          href: posts.qmd#category=presentation
+      - text: Group
+        href: people.qmd
 
     right: 
       - text: CV
